@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cognitive Services Csharp Vision", "Cognitive Services Csharp Vision\Cognitive Services Csharp Vision.csproj", "{279C1A49-D83C-49EA-9CD7-C9954523F7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279C1A49-D83C-49EA-9CD7-C9954523F7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279C1A49-D83C-49EA-9CD7-C9954523F7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279C1A49-D83C-49EA-9CD7-C9954523F7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279C1A49-D83C-49EA-9CD7-C9954523F7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C2D9C2-8DDD-4A68-AD18-1F0F95D3B228}
+	EndGlobalSection
+EndGlobal
